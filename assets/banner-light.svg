@@ -11,10 +11,10 @@
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#6b6676" letter-spacing="2">
     <text x="60" y="46">SB—120</text>
     <text x="1140" y="46" text-anchor="end">MANGALURU · INDIA</text>
-    <text x="60" y="266">REACT · NODE · MONGODB · ANGULAR · KOTLIN · PYTHON</text>
+    <text x="60" y="266">REACT · NODE · PYTHON · FASTAPI · LLMs · COMPUTER VISION</text>
   </g>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" fill="#1b1a24">
     <text x="58" y="150" font-size="76" font-weight="800" letter-spacing="-2.5">Siddharth Bhat</text>
-    <text x="60" y="198" font-size="26" font-weight="500" fill="#6b6676">Full-stack developer · MCA student</text>
+    <text x="60" y="198" font-size="26" font-weight="500" fill="#6b6676">Full-stack developer · AI apps · MCA student</text>
   </g>
 </svg>
