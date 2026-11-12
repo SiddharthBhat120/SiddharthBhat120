@@ -15,7 +15,7 @@ I'm an MCA student at AIMIT, St Aloysius (Deemed to be University), Mangaluru. M
 |---|---|---|
 | [**TaskFlow**](https://github.com/SiddharthBhat120/TaskFlow) | Project and team management: Kanban board, real-time chat and notifications, role-based access, reports | Angular, Node.js, Express, MongoDB, Socket.IO |
 | [**PixelStore**](https://github.com/SiddharthBhat120/PixelStore) | Online store for PC games and gear: cart, checkout, order tracking, reviews, admin dashboard | React, Node.js, Express, MongoDB, JWT |
-| [**Habit Tracker**](https://github.com/SiddharthBhat120/HabitTracker) | Android app for daily habits, streaks and a mood journal (team of two) | Kotlin, Jetpack Compose, Firebase |
+| [**Habit Tracker**](https://github.com/SiddharthBhat120/HabitTracker) | Android app for daily habits, streaks and a mood journal (team of two) | Kotlin, Jetpack Compose, Room |
 | [**Qualify Milk**](https://github.com/SiddharthBhat120/Qualify-Milk) | Predicts milk quality from seven lab readings. Compares ten models and reports honestly on a dataset where most rows are duplicates | Python, scikit-learn, Flask |
 | [**CrowdMate**](https://github.com/SiddharthBhat120/CrowdMate) | One QR code for crowded places: live virtual queues and lost-person safety tags, works offline | React, TypeScript, Node.js |
 | [**PotSpot**](https://github.com/SiddharthBhat120/POTSPOT) | Turns dashcam video into a map of potholes ([live demo](https://siddharthbhat120.github.io/POTSPOT/)) | Python, YOLO11, FastAPI, React, Leaflet |
