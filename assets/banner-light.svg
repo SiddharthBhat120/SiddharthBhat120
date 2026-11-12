@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Siddharth Bhat, full-stack developer">
+  <title>Siddharth Bhat, full-stack developer</title>
+  <rect width="1200" height="300" rx="18" fill="#f2ede3"/>
+  <g stroke="#cfc5b2" stroke-width="1">
+    <path d="M60 64H1140M60 236H1140"/>
+  </g>
+  <g style="mix-blend-mode:multiply">
+    <circle cx="968" cy="150" r="92" fill="#2b3bd6"/>
+    <circle cx="1048" cy="150" r="92" fill="#ff48b0" style="mix-blend-mode:multiply"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#6b6676" letter-spacing="2">
+    <text x="60" y="46">SB—120</text>
+    <text x="1140" y="46" text-anchor="end">MANGALURU · INDIA</text>
+    <text x="60" y="266">REACT · NODE · MONGODB · ANGULAR · KOTLIN · PYTHON</text>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" fill="#1b1a24">
+    <text x="58" y="150" font-size="76" font-weight="800" letter-spacing="-2.5">Siddharth Bhat</text>
+    <text x="60" y="198" font-size="26" font-weight="500" fill="#6b6676">Full-stack developer · MCA student</text>
+  </g>
+</svg>
